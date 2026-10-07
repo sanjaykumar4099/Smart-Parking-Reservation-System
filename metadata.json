@@ -1,0 +1,6 @@
+{
+  "name": "ParkPulse - Smart Parking Reservation & MySQL Engine",
+  "description": "Real-time smart parking reservation system featuring live IoT spot availability near you, dynamic floor maps, ticket passes, and full MySQL schema & query engine.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
